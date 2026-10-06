@@ -1,0 +1,14 @@
+Feature,Mean_Absolute_SHAP
+backlogs,0.13769338
+internships_count,0.094871044
+projects_count,0.092341915
+coding_skill_score,0.08936654
+communication_skill_score,0.053126283
+cgpa,0.022668697
+branch_ECE,0.007252057
+branch_IT,0.0044674836
+branch_CSE,0.0030353076
+college_tier,0.0028378326
+branch_Mechanical,0.0019289139
+branch_Civil,0.0019178608
+branch_EEE,0.0013803677
